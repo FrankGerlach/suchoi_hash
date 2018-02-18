@@ -50,7 +50,7 @@ of the authors.
  *      affects performance.
  * 
  * 
- * Author: Frank Gerlach, EPAM LLPD, Minsk
+ * Author: Frank Gerlach
  *
  ******************************************************/
 
