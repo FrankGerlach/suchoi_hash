@@ -1,4 +1,4 @@
-/* Copyright (c) 2016, Frank Gerlach ( Frank_Gerlach@epam.com )
+/* Copyright (c) 2016, Frank Gerlach ( frankgerlach.tai@gmx.de )
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
